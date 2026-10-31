@@ -1,12 +1,12 @@
 # Moonbase Alpha
 
-This theme is heavily inspired by the TV show [Space 1999 (1975-1977)](https://www.imdb.com/title/tt0072564/) and its retro-sci-fi look.
+Theme inspired by the TV show [Space 1999](https://www.imdb.com/title/tt0072564/) (1975–1977) and its retro sci-fi aesthetic.
 
-I suggest to add the following lines to your kitty.conf to obtain a transparency effect:
+For a subtle transparency effect in Kitty, add these lines to your `kitty.conf`:
 
-```
-background_opacity          0.7
-cursor_trail                1
+```conf
+background_opacity 0.7
+cursor_trail 1
 ```
 
 ## Quick Install
