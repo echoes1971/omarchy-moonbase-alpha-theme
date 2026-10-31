@@ -2,6 +2,13 @@
 
 This theme is heavily inspired by the TV show [Space 1999 (1975-1977)](https://www.imdb.com/title/tt0072564/) and its retro-sci-fi look.
 
+I suggest to add the following lines to your kitty.conf to obtain a transparency effect:
+
+```
+background_opacity          0.7
+cursor_trail                1
+```
+
 ## Quick Install
 
 ```bash
