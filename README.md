@@ -1,5 +1,7 @@
 # Moonbase Alpha
 
+This theme is heavily inspired by the TV show [Space 1999 (1975-1977)](https://www.imdb.com/title/tt0072564/) and its retro-sci-fi look.
+
 ## Quick Install
 
 ```bash
